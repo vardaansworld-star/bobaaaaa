@@ -1,0 +1,21 @@
+body{
+    text-align:center;
+    font-family:"Henny Penny",system-ui;
+    background-color:black;
+    font-weight: bold;
+    color:white;
+    font-size:20px;
+}
+
+.IT , .Insidious, .Sinister, .Halloween, .ring , .the-texas-chainsaw-massacre, .shining, .conjuring, .Hereditary , .Exorcist, .q,.w,.e,.r,.t,.y,.u,.i,.o,.p{
+    color:rgba(255, 0, 0, 0.658);
+}
+h2{
+    color:rgba(255, 0, 0, 0.514);
+}
+h1{
+    color:rgba(255, 0, 0, 0.514);
+}
+img{
+    width:200px;
+}
